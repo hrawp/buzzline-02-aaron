@@ -1,5 +1,5 @@
 """
-kafka_consumer_case.py
+kafka_consumer_aaron.py
 
 Consume messages from a Kafka topic and process them.
 """
@@ -10,6 +10,7 @@ Consume messages from a Kafka topic and process them.
 
 # Import packages from Python Standard Library
 import os
+import json
 
 # Import external packages
 from dotenv import load_dotenv
@@ -36,9 +37,9 @@ def get_kafka_topic() -> str:
     return topic
 
 
-def get_kafka_consumer_group_id() -> int:
+def get_kafka_consumer_group_id() -> str:
     """Fetch Kafka consumer group id from environment or use default."""
-    group_id: str = os.getenv("KAFKA_CONSUMER_GROUP_ID_JSON", "default_group")
+    group_id = os.getenv("KAFKA_CONSUMER_GROUP_ID_JSON", "buzz_group")
     logger.info(f"Kafka consumer group id: {group_id}")
     return group_id
 
@@ -48,18 +49,26 @@ def get_kafka_consumer_group_id() -> int:
 # #####################################
 
 
-def process_message(message: str) -> None:
+def process_message(message_value: str) -> None:
     """
-    Process a single message.
-
-    For now, this function simply logs the message.
-    You can extend it to perform other tasks, like counting words
-    or storing data in a database.
+    Process a single Kafka message.
 
     Args:
-        message (str): The message to process.
+        message_value (str): The raw JSON string from Kafka.
     """
-    logger.info(f"Processing message: {message}")
+    try:
+        msg = json.loads(message_value)
+        event_id = msg.get("event_id")
+        user_id = msg.get("user_id")
+        action = msg.get("action")
+        timestamp = msg.get("timestamp")
+
+        logger.info(f"[Processed] User {user_id} performed '{action}' at {timestamp} (event_id: {event_id})")
+
+    except json.JSONDecodeError:
+        logger.error(f"Failed to decode JSON: {message_value}")
+    except Exception as e:
+        logger.error(f"Error processing message: {e}")
 
 
 #####################################
@@ -89,7 +98,7 @@ def main() -> None:
     logger.info(f"Polling messages from topic '{topic}'...")
     try:
         for message in consumer:
-            message_str = message.value
+            message_str = message.value.decode("utf-8") 
             logger.debug(f"Received message at offset {message.offset}: {message_str}")
             process_message(message_str)
     except KeyboardInterrupt:
