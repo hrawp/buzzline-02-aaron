@@ -63,14 +63,17 @@ def generate_messages(producer, topic, interval_secs):
         topic (str): The Kafka topic to send messages to.
         interval_secs (int): Time in seconds between sending messages.
 
-    """
-    string_list: list = [
-        "I love Python!",
-        "Kafka is awesome.",
-        "Streaming data is fun.",
-        "This is a buzz message.",
-        "Have a great day!",
+    """  
+
+    actions = [
+    "login",
+    "logout",
+    "click",
+    "purchase",
+    "view",
+    "scroll"
     ]
+
     try:
         while True:
             # Build a custom JSON message
