@@ -1,5 +1,5 @@
 """
-kafka_producer_case.py
+kafka_producer_aaron.py
 
 Produce some streaming buzz strings and send them to a Kafka topic.
 """
@@ -8,10 +8,14 @@ Produce some streaming buzz strings and send them to a Kafka topic.
 # Import Modules
 #####################################
 
-# Import packages from Python Standard Library
+# Import packages needed to send JSON messages.
 import os
 import sys
 import time
+import json
+import random
+import uuid
+from datetime import datetime
 
 # Import external packages
 from dotenv import load_dotenv
@@ -69,11 +73,22 @@ def generate_messages(producer, topic, interval_secs):
     ]
     try:
         while True:
-            for message in string_list:
-                logger.info(f"Generated buzz: {message}")
-                producer.send(topic, value=message)
-                logger.info(f"Sent message to topic '{topic}': {message}")
-                time.sleep(interval_secs)
+            # Build a custom JSON message
+            message = {
+                "event_id": str(uuid.uuid4()),
+                "user_id": random.randint(1000, 9999),
+                "action": random.choice(actions),
+                "timestamp": datetime.utcnow().isoformat() + "Z"
+            }
+
+            logger.info(f"Generated JSON message: {message}")
+
+            # Send as JSON-encoded bytes
+            producer.send(topic, value=json.dumps(message).encode("utf-8"))
+
+            logger.info(f"Sent message to topic '{topic}': {message}")
+            time.sleep(interval_secs)
+            
     except KeyboardInterrupt:
         logger.warning("Producer interrupted by user.")
     except Exception as e:
