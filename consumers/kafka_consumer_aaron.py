@@ -65,6 +65,10 @@ def process_message(message_value: str) -> None:
 
         logger.info(f"[Processed] User {user_id} performed '{action}' at {timestamp} (event_id: {event_id})")
 
+        # Alert condition
+        if action == "purchase":
+            logger.warning(f"⚠️ ALERT: User {user_id} made a PURCHASE at {timestamp} (event_id: {event_id})")
+
     except json.JSONDecodeError:
         logger.error(f"Failed to decode JSON: {message_value}")
     except Exception as e:
