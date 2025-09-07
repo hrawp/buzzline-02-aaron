@@ -1,258 +1,172 @@
-2025-09-03 19:31:57 | INFO | Processing message: This is a buzz message.
-2025-09-03 19:31:58 | INFO | Processing message: Have a great day!
-2025-09-03 19:31:59 | INFO | Processing message: I love Python!
-2025-09-03 19:32:00 | INFO | Processing message: Kafka is awesome.
-2025-09-03 19:32:01 | INFO | Processing message: Streaming data is fun.
-2025-09-03 19:32:02 | INFO | Processing message: This is a buzz message.
-2025-09-03 19:32:03 | INFO | Processing message: Have a great day!
-2025-09-03 19:32:04 | INFO | Processing message: I love Python!
-2025-09-03 19:32:05 | INFO | Processing message: Kafka is awesome.
-2025-09-03 19:32:06 | INFO | Processing message: Streaming data is fun.
-2025-09-03 19:32:07 | INFO | Processing message: This is a buzz message.
-2025-09-03 19:32:08 | INFO | Processing message: Have a great day!
-2025-09-03 19:32:09 | INFO | Processing message: I love Python!
-2025-09-03 19:32:10 | INFO | Processing message: Kafka is awesome.
-2025-09-03 19:32:11 | INFO | Processing message: Streaming data is fun.
-2025-09-03 19:32:12 | INFO | Processing message: This is a buzz message.
-2025-09-03 19:32:13 | INFO | Processing message: Have a great day!
-2025-09-03 19:32:14 | INFO | Processing message: I love Python!
-2025-09-03 19:32:15 | INFO | Processing message: Kafka is awesome.
-2025-09-03 19:32:16 | INFO | Processing message: Streaming data is fun.
-2025-09-03 19:32:18 | INFO | Processing message: This is a buzz message.
-2025-09-03 19:32:19 | INFO | Processing message: Have a great day!
-2025-09-03 19:32:20 | INFO | Processing message: I love Python!
-2025-09-03 19:32:21 | INFO | Processing message: Kafka is awesome.
-2025-09-03 19:32:22 | INFO | Processing message: Streaming data is fun.
-2025-09-03 19:32:23 | INFO | Processing message: This is a buzz message.
-2025-09-03 19:32:24 | INFO | Processing message: Have a great day!
-2025-09-03 19:32:25 | INFO | Processing message: I love Python!
-2025-09-03 19:32:26 | INFO | Processing message: Kafka is awesome.
-2025-09-03 19:32:27 | INFO | Processing message: Streaming data is fun.
-2025-09-03 19:32:28 | INFO | Processing message: This is a buzz message.
-2025-09-03 19:32:29 | INFO | Processing message: Have a great day!
-2025-09-03 19:32:30 | INFO | Processing message: I love Python!
-2025-09-03 19:32:31 | INFO | Processing message: Kafka is awesome.
-2025-09-03 19:32:32 | INFO | Processing message: Streaming data is fun.
-2025-09-03 19:32:33 | INFO | Processing message: This is a buzz message.
-2025-09-03 19:32:34 | INFO | Processing message: Have a great day!
-2025-09-03 19:32:35 | INFO | Processing message: I love Python!
-2025-09-03 19:32:36 | INFO | Processing message: Kafka is awesome.
-2025-09-03 19:32:37 | INFO | Processing message: Streaming data is fun.
-2025-09-03 19:32:38 | INFO | Processing message: This is a buzz message.
-2025-09-03 19:32:39 | INFO | Processing message: Have a great day!
-2025-09-03 19:32:40 | INFO | Processing message: I love Python!
-2025-09-03 19:32:41 | INFO | Processing message: Kafka is awesome.
-2025-09-03 19:32:42 | INFO | Processing message: Streaming data is fun.
-2025-09-03 19:32:43 | INFO | Processing message: This is a buzz message.
-2025-09-03 19:32:44 | INFO | Processing message: Have a great day!
-2025-09-03 19:32:45 | INFO | Processing message: I love Python!
-2025-09-03 19:32:46 | INFO | Processing message: Kafka is awesome.
-2025-09-03 19:32:47 | INFO | Processing message: Streaming data is fun.
-2025-09-03 19:32:48 | INFO | Processing message: This is a buzz message.
-2025-09-03 19:32:49 | INFO | Processing message: Have a great day!
-2025-09-03 19:32:52 | INFO | Processing message: I love Python!
-2025-09-03 19:32:53 | INFO | Processing message: Kafka is awesome.
-2025-09-03 19:32:54 | INFO | Processing message: Streaming data is fun.
-2025-09-03 19:32:55 | INFO | Processing message: This is a buzz message.
-2025-09-03 19:32:56 | INFO | Processing message: Have a great day!
-2025-09-03 19:32:57 | INFO | Processing message: I love Python!
-2025-09-03 19:32:58 | INFO | Processing message: Kafka is awesome.
-2025-09-03 19:32:59 | INFO | Processing message: Streaming data is fun.
-2025-09-03 19:33:00 | INFO | Processing message: This is a buzz message.
-2025-09-03 19:33:01 | INFO | Processing message: Have a great day!
-2025-09-03 19:33:02 | INFO | Processing message: I love Python!
-2025-09-03 19:33:03 | INFO | Processing message: Kafka is awesome.
-2025-09-03 19:33:04 | INFO | Processing message: Streaming data is fun.
-2025-09-03 19:33:05 | INFO | Processing message: This is a buzz message.
-2025-09-03 19:33:06 | INFO | Processing message: Have a great day!
-2025-09-03 19:33:07 | INFO | Processing message: I love Python!
-2025-09-03 19:33:08 | INFO | Processing message: Kafka is awesome.
-2025-09-03 19:33:09 | INFO | Processing message: Streaming data is fun.
-2025-09-03 19:33:10 | INFO | Processing message: This is a buzz message.
-2025-09-03 19:33:11 | INFO | Processing message: Have a great day!
-2025-09-03 19:33:12 | INFO | Processing message: I love Python!
-2025-09-03 19:33:13 | INFO | Processing message: Kafka is awesome.
-2025-09-03 19:33:14 | INFO | Processing message: Streaming data is fun.
-2025-09-03 19:33:15 | INFO | Processing message: This is a buzz message.
-2025-09-03 19:33:16 | INFO | Processing message: Have a great day!
-2025-09-03 19:33:17 | INFO | Processing message: I love Python!
-2025-09-03 19:33:18 | INFO | Processing message: Kafka is awesome.
-2025-09-03 19:33:19 | INFO | Processing message: Streaming data is fun.
-2025-09-03 19:33:20 | INFO | Processing message: This is a buzz message.
-2025-09-03 19:33:21 | INFO | Processing message: Have a great day!
-2025-09-03 19:33:22 | INFO | Processing message: I love Python!
-2025-09-03 19:33:23 | INFO | Processing message: Kafka is awesome.
-2025-09-03 19:33:25 | INFO | Processing message: Streaming data is fun.
-2025-09-03 19:33:26 | INFO | Processing message: This is a buzz message.
-2025-09-03 19:33:27 | INFO | Processing message: Have a great day!
-2025-09-03 19:33:28 | INFO | Processing message: I love Python!
-2025-09-03 19:33:29 | INFO | Processing message: Kafka is awesome.
-2025-09-03 19:33:30 | INFO | Processing message: Streaming data is fun.
-2025-09-03 19:33:31 | INFO | Processing message: This is a buzz message.
-2025-09-03 19:33:32 | INFO | Processing message: Have a great day!
-2025-09-03 19:33:33 | INFO | Processing message: I love Python!
-2025-09-03 19:33:34 | INFO | Processing message: Kafka is awesome.
-2025-09-03 19:33:35 | INFO | Processing message: Streaming data is fun.
-2025-09-03 19:33:36 | INFO | Processing message: This is a buzz message.
-2025-09-03 19:33:37 | INFO | Processing message: Have a great day!
-2025-09-03 19:33:39 | INFO | Processing message: I love Python!
-2025-09-03 19:33:40 | INFO | Processing message: Kafka is awesome.
-2025-09-03 19:33:41 | INFO | Processing message: Streaming data is fun.
-2025-09-03 19:33:42 | INFO | Processing message: This is a buzz message.
-2025-09-03 19:33:43 | INFO | Processing message: Have a great day!
-2025-09-03 19:33:44 | INFO | Processing message: I love Python!
-2025-09-03 19:33:45 | INFO | Processing message: Kafka is awesome.
-2025-09-03 19:33:46 | INFO | Processing message: Streaming data is fun.
-2025-09-03 19:33:47 | INFO | Processing message: This is a buzz message.
-2025-09-03 19:33:48 | INFO | Processing message: Have a great day!
-2025-09-03 19:33:49 | INFO | Processing message: I love Python!
-2025-09-03 19:33:50 | INFO | Processing message: Kafka is awesome.
-2025-09-03 19:33:51 | INFO | Processing message: Streaming data is fun.
-2025-09-03 19:33:52 | INFO | Processing message: This is a buzz message.
-2025-09-03 19:33:53 | INFO | Processing message: Have a great day!
-2025-09-03 19:33:54 | INFO | Processing message: I love Python!
-2025-09-03 19:33:55 | INFO | Processing message: Kafka is awesome.
-2025-09-03 19:33:56 | INFO | Processing message: Streaming data is fun.
-2025-09-03 19:33:57 | INFO | Processing message: This is a buzz message.
-2025-09-03 19:33:59 | INFO | Processing message: Have a great day!
-2025-09-03 19:34:00 | INFO | Processing message: I love Python!
-2025-09-03 19:34:01 | INFO | Processing message: Kafka is awesome.
-2025-09-03 19:34:02 | INFO | Processing message: Streaming data is fun.
-2025-09-03 19:34:03 | INFO | Processing message: This is a buzz message.
-2025-09-03 19:34:04 | INFO | Processing message: Have a great day!
-2025-09-03 19:34:05 | INFO | Processing message: I love Python!
-2025-09-03 19:34:06 | INFO | Processing message: Kafka is awesome.
-2025-09-03 19:34:07 | INFO | Processing message: Streaming data is fun.
-2025-09-03 19:34:08 | INFO | Processing message: This is a buzz message.
-2025-09-03 19:34:09 | INFO | Processing message: Have a great day!
-2025-09-03 19:34:10 | INFO | Processing message: I love Python!
-2025-09-03 19:34:11 | INFO | Processing message: Kafka is awesome.
-2025-09-03 19:34:12 | INFO | Processing message: Streaming data is fun.
-2025-09-03 19:34:13 | INFO | Processing message: This is a buzz message.
-2025-09-03 19:34:14 | INFO | Processing message: Have a great day!
-2025-09-03 19:34:15 | INFO | Processing message: I love Python!
-2025-09-03 19:34:16 | INFO | Processing message: Kafka is awesome.
-2025-09-03 19:34:17 | INFO | Processing message: Streaming data is fun.
-2025-09-03 19:34:18 | INFO | Processing message: This is a buzz message.
-2025-09-03 19:34:19 | INFO | Processing message: Have a great day!
-2025-09-03 19:34:20 | INFO | Processing message: I love Python!
-2025-09-03 19:34:21 | INFO | Processing message: Kafka is awesome.
-2025-09-03 19:34:22 | INFO | Processing message: Streaming data is fun.
-2025-09-03 19:34:23 | INFO | Processing message: This is a buzz message.
-2025-09-03 19:34:24 | INFO | Processing message: Have a great day!
-2025-09-03 19:34:25 | INFO | Processing message: I love Python!
-2025-09-03 19:34:26 | INFO | Processing message: Kafka is awesome.
-2025-09-03 19:34:27 | INFO | Processing message: Streaming data is fun.
-2025-09-03 19:34:28 | INFO | Processing message: This is a buzz message.
-2025-09-03 19:34:29 | INFO | Processing message: Have a great day!
-2025-09-03 19:34:30 | INFO | Processing message: I love Python!
-2025-09-03 19:34:32 | INFO | Processing message: Kafka is awesome.
-2025-09-03 19:34:33 | INFO | Processing message: Streaming data is fun.
-2025-09-03 19:34:34 | INFO | Processing message: This is a buzz message.
-2025-09-03 19:34:35 | INFO | Processing message: Have a great day!
-2025-09-03 19:34:36 | INFO | Processing message: I love Python!
-2025-09-03 19:34:37 | INFO | Processing message: Kafka is awesome.
-2025-09-03 19:34:38 | INFO | Processing message: Streaming data is fun.
-2025-09-03 19:34:39 | INFO | Processing message: This is a buzz message.
-2025-09-03 19:34:40 | INFO | Processing message: Have a great day!
-2025-09-03 19:34:41 | INFO | Processing message: I love Python!
-2025-09-03 19:34:42 | INFO | Processing message: Kafka is awesome.
-2025-09-03 19:34:43 | INFO | Processing message: Streaming data is fun.
-2025-09-03 19:34:44 | INFO | Processing message: This is a buzz message.
-2025-09-03 19:34:45 | INFO | Processing message: Have a great day!
-2025-09-03 19:34:46 | INFO | Processing message: I love Python!
-2025-09-03 19:34:47 | INFO | Processing message: Kafka is awesome.
-2025-09-03 19:34:48 | INFO | Processing message: Streaming data is fun.
-2025-09-03 19:34:49 | INFO | Processing message: This is a buzz message.
-2025-09-03 19:34:50 | INFO | Processing message: Have a great day!
-2025-09-03 19:34:51 | INFO | Processing message: I love Python!
-2025-09-03 19:34:52 | INFO | Processing message: Kafka is awesome.
-2025-09-03 19:34:53 | INFO | Processing message: Streaming data is fun.
-2025-09-03 19:34:54 | INFO | Processing message: This is a buzz message.
-2025-09-03 19:34:55 | INFO | Processing message: Have a great day!
-2025-09-03 19:34:56 | INFO | Processing message: I love Python!
-2025-09-03 19:34:57 | INFO | Processing message: Kafka is awesome.
-2025-09-03 19:34:58 | INFO | Processing message: Streaming data is fun.
-2025-09-03 19:34:59 | INFO | Processing message: This is a buzz message.
-2025-09-03 19:35:00 | INFO | Processing message: Have a great day!
-2025-09-03 19:35:01 | INFO | Processing message: I love Python!
-2025-09-03 19:35:02 | INFO | Processing message: Kafka is awesome.
-2025-09-03 19:35:03 | INFO | Processing message: Streaming data is fun.
-2025-09-03 19:35:06 | INFO | Processing message: This is a buzz message.
-2025-09-03 19:35:07 | INFO | Processing message: Have a great day!
-2025-09-03 19:35:08 | INFO | Processing message: I love Python!
-2025-09-03 19:35:09 | INFO | Processing message: Kafka is awesome.
-2025-09-03 19:35:10 | INFO | Processing message: Streaming data is fun.
-2025-09-03 19:35:11 | INFO | Processing message: This is a buzz message.
-2025-09-03 19:35:12 | INFO | Processing message: Have a great day!
-2025-09-03 19:35:13 | INFO | Processing message: I love Python!
-2025-09-03 19:35:14 | INFO | Processing message: Kafka is awesome.
-2025-09-03 19:35:15 | INFO | Processing message: Streaming data is fun.
-2025-09-03 19:35:16 | INFO | Processing message: This is a buzz message.
-2025-09-03 19:35:17 | INFO | Processing message: Have a great day!
-2025-09-03 19:35:18 | INFO | Processing message: I love Python!
-2025-09-03 19:35:19 | INFO | Processing message: Kafka is awesome.
-2025-09-03 19:35:20 | INFO | Processing message: Streaming data is fun.
-2025-09-03 19:35:21 | INFO | Processing message: This is a buzz message.
-2025-09-03 19:35:22 | INFO | Processing message: Have a great day!
-2025-09-03 19:35:23 | INFO | Processing message: I love Python!
-2025-09-03 19:35:24 | INFO | Processing message: Kafka is awesome.
-2025-09-03 19:35:25 | INFO | Processing message: Streaming data is fun.
-2025-09-03 19:35:26 | INFO | Processing message: This is a buzz message.
-2025-09-03 19:35:27 | INFO | Processing message: Have a great day!
-2025-09-03 19:35:28 | INFO | Processing message: I love Python!
-2025-09-03 19:35:29 | INFO | Processing message: Kafka is awesome.
-2025-09-03 19:35:30 | INFO | Processing message: Streaming data is fun.
-2025-09-03 19:35:31 | INFO | Processing message: This is a buzz message.
-2025-09-03 19:35:32 | INFO | Processing message: Have a great day!
-2025-09-03 19:35:33 | INFO | Processing message: I love Python!
-2025-09-03 19:35:34 | INFO | Processing message: Kafka is awesome.
-2025-09-03 19:35:35 | INFO | Processing message: Streaming data is fun.
-2025-09-03 19:35:36 | INFO | Processing message: This is a buzz message.
-2025-09-03 19:35:37 | INFO | Processing message: Have a great day!
-2025-09-03 19:35:39 | INFO | Processing message: I love Python!
-2025-09-03 19:35:40 | INFO | Processing message: Kafka is awesome.
-2025-09-03 19:35:41 | INFO | Processing message: Streaming data is fun.
-2025-09-03 19:35:42 | INFO | Processing message: This is a buzz message.
-2025-09-03 19:35:43 | INFO | Processing message: Have a great day!
-2025-09-03 19:35:44 | INFO | Processing message: I love Python!
-2025-09-03 19:35:45 | INFO | Processing message: Kafka is awesome.
-2025-09-03 19:35:46 | INFO | Processing message: Streaming data is fun.
-2025-09-03 19:35:47 | INFO | Processing message: This is a buzz message.
-2025-09-03 19:35:48 | INFO | Processing message: Have a great day!
-2025-09-03 19:35:49 | INFO | Processing message: I love Python!
-2025-09-03 19:35:50 | INFO | Processing message: Kafka is awesome.
-2025-09-03 19:35:51 | INFO | Processing message: Streaming data is fun.
-2025-09-03 19:35:52 | INFO | Processing message: This is a buzz message.
-2025-09-03 19:35:53 | INFO | Processing message: Have a great day!
-2025-09-03 19:35:54 | INFO | Processing message: I love Python!
-2025-09-03 19:35:55 | INFO | Processing message: Kafka is awesome.
-2025-09-03 19:35:56 | INFO | Processing message: Streaming data is fun.
-2025-09-03 19:35:57 | INFO | Processing message: This is a buzz message.
-2025-09-03 19:35:58 | INFO | Processing message: Have a great day!
-2025-09-03 19:35:59 | INFO | Processing message: I love Python!
-2025-09-03 19:36:00 | INFO | Processing message: Kafka is awesome.
-2025-09-03 19:36:01 | INFO | Processing message: Streaming data is fun.
-2025-09-03 19:36:02 | INFO | Processing message: This is a buzz message.
-2025-09-03 19:36:03 | INFO | Processing message: Have a great day!
-2025-09-03 19:36:04 | INFO | Processing message: I love Python!
-2025-09-03 19:36:05 | INFO | Processing message: Kafka is awesome.
-2025-09-03 19:36:06 | INFO | Processing message: Streaming data is fun.
-2025-09-03 19:36:07 | INFO | Processing message: This is a buzz message.
-2025-09-03 19:36:08 | INFO | Processing message: Have a great day!
-2025-09-03 19:36:09 | INFO | Processing message: I love Python!
-2025-09-03 19:36:10 | INFO | Processing message: Kafka is awesome.
-2025-09-03 19:36:12 | INFO | Processing message: Streaming data is fun.
-2025-09-03 19:36:13 | INFO | Processing message: This is a buzz message.
-2025-09-03 19:36:14 | INFO | Processing message: Have a great day!
-2025-09-03 19:36:15 | INFO | Processing message: I love Python!
-2025-09-03 19:36:16 | INFO | Processing message: Kafka is awesome.
-2025-09-03 19:36:17 | INFO | Processing message: Streaming data is fun.
-2025-09-03 19:36:18 | INFO | Processing message: This is a buzz message.
-2025-09-03 19:36:19 | INFO | Processing message: Have a great day!
-2025-09-03 19:36:20 | INFO | Processing message: I love Python!
-2025-09-03 19:36:21 | INFO | Processing message: Kafka is awesome.
-2025-09-03 19:36:22 | INFO | Processing message: Streaming data is fun.
-2025-09-03 19:36:26 | WARNING | Consumer interrupted by user.
-2025-09-03 19:36:26 | INFO | Kafka consumer for topic 'buzzline' closed.
-2025-09-03 19:36:26 | INFO | END consumer for topic 'buzzline' and group 'default_group'.
+2025-09-06 19:08:51 | INFO | Sent message to topic 'buzzline': {'event_id': '24bb2bf2-bf07-4248-980d-05288827dd98', 'user_id': 4010, 'action': 'logout', 'timestamp': '2025-09-07T00:08:51.728095Z'}
+2025-09-06 19:08:52 | INFO | Generated JSON message: {'event_id': '72c7999d-1fba-43e2-9b64-49ba20bb788f', 'user_id': 2228, 'action': 'scroll', 'timestamp': '2025-09-07T00:08:52.775164Z'}
+2025-09-06 19:08:52 | INFO | Sent message to topic 'buzzline': {'event_id': '72c7999d-1fba-43e2-9b64-49ba20bb788f', 'user_id': 2228, 'action': 'scroll', 'timestamp': '2025-09-07T00:08:52.775164Z'}
+2025-09-06 19:08:53 | INFO | Generated JSON message: {'event_id': '02a86609-59bf-4ad9-b09d-43f671b8e770', 'user_id': 5188, 'action': 'login', 'timestamp': '2025-09-07T00:08:53.799812Z'}
+2025-09-06 19:08:53 | INFO | Sent message to topic 'buzzline': {'event_id': '02a86609-59bf-4ad9-b09d-43f671b8e770', 'user_id': 5188, 'action': 'login', 'timestamp': '2025-09-07T00:08:53.799812Z'}
+2025-09-06 19:08:54 | INFO | Generated JSON message: {'event_id': '8a9f5536-f009-463c-a1fb-ad3050f29744', 'user_id': 3300, 'action': 'scroll', 'timestamp': '2025-09-07T00:08:54.803983Z'}
+2025-09-06 19:08:54 | INFO | Sent message to topic 'buzzline': {'event_id': '8a9f5536-f009-463c-a1fb-ad3050f29744', 'user_id': 3300, 'action': 'scroll', 'timestamp': '2025-09-07T00:08:54.803983Z'}
+2025-09-06 19:08:55 | INFO | Generated JSON message: {'event_id': '8e3258b3-13ae-40b7-ac40-71dfe634713c', 'user_id': 1181, 'action': 'view', 'timestamp': '2025-09-07T00:08:55.807778Z'}
+2025-09-06 19:08:55 | INFO | Sent message to topic 'buzzline': {'event_id': '8e3258b3-13ae-40b7-ac40-71dfe634713c', 'user_id': 1181, 'action': 'view', 'timestamp': '2025-09-07T00:08:55.807778Z'}
+2025-09-06 19:08:56 | INFO | Generated JSON message: {'event_id': '22fd6129-6feb-4ba7-9e84-1ce2f1139698', 'user_id': 4065, 'action': 'view', 'timestamp': '2025-09-07T00:08:56.813323Z'}
+2025-09-06 19:08:56 | INFO | Sent message to topic 'buzzline': {'event_id': '22fd6129-6feb-4ba7-9e84-1ce2f1139698', 'user_id': 4065, 'action': 'view', 'timestamp': '2025-09-07T00:08:56.813323Z'}
+2025-09-06 19:08:57 | INFO | Generated JSON message: {'event_id': '1889f9e5-340b-4f42-a374-e17722b58d49', 'user_id': 5446, 'action': 'click', 'timestamp': '2025-09-07T00:08:57.817685Z'}
+2025-09-06 19:08:57 | INFO | Sent message to topic 'buzzline': {'event_id': '1889f9e5-340b-4f42-a374-e17722b58d49', 'user_id': 5446, 'action': 'click', 'timestamp': '2025-09-07T00:08:57.817685Z'}
+2025-09-06 19:08:58 | INFO | Generated JSON message: {'event_id': 'af0f6be5-4d42-4df3-a7cb-c9ffce476956', 'user_id': 5568, 'action': 'click', 'timestamp': '2025-09-07T00:08:58.821947Z'}
+2025-09-06 19:08:58 | INFO | Sent message to topic 'buzzline': {'event_id': 'af0f6be5-4d42-4df3-a7cb-c9ffce476956', 'user_id': 5568, 'action': 'click', 'timestamp': '2025-09-07T00:08:58.821947Z'}
+2025-09-06 19:08:59 | INFO | Generated JSON message: {'event_id': '91dcdda3-d5e7-4226-9787-15b2be580883', 'user_id': 4761, 'action': 'click', 'timestamp': '2025-09-07T00:08:59.825304Z'}
+2025-09-06 19:08:59 | INFO | Sent message to topic 'buzzline': {'event_id': '91dcdda3-d5e7-4226-9787-15b2be580883', 'user_id': 4761, 'action': 'click', 'timestamp': '2025-09-07T00:08:59.825304Z'}
+2025-09-06 19:09:00 | INFO | Generated JSON message: {'event_id': '96292ed8-3d29-4e9a-adaf-79acd7ac1b9d', 'user_id': 7296, 'action': 'scroll', 'timestamp': '2025-09-07T00:09:00.828836Z'}
+2025-09-06 19:09:00 | INFO | Sent message to topic 'buzzline': {'event_id': '96292ed8-3d29-4e9a-adaf-79acd7ac1b9d', 'user_id': 7296, 'action': 'scroll', 'timestamp': '2025-09-07T00:09:00.828836Z'}
+2025-09-06 19:09:01 | INFO | Generated JSON message: {'event_id': '67147add-d67e-4222-a7fe-69d364cc2370', 'user_id': 2735, 'action': 'login', 'timestamp': '2025-09-07T00:09:01.831859Z'}
+2025-09-06 19:09:01 | INFO | Sent message to topic 'buzzline': {'event_id': '67147add-d67e-4222-a7fe-69d364cc2370', 'user_id': 2735, 'action': 'login', 'timestamp': '2025-09-07T00:09:01.831859Z'}
+2025-09-06 19:09:02 | INFO | Generated JSON message: {'event_id': '2d20a130-d3b8-4482-8f46-c6844dd643e9', 'user_id': 2105, 'action': 'purchase', 'timestamp': '2025-09-07T00:09:02.835290Z'}
+2025-09-06 19:09:02 | INFO | Sent message to topic 'buzzline': {'event_id': '2d20a130-d3b8-4482-8f46-c6844dd643e9', 'user_id': 2105, 'action': 'purchase', 'timestamp': '2025-09-07T00:09:02.835290Z'}
+2025-09-06 19:09:03 | INFO | Generated JSON message: {'event_id': '83b422d7-2c74-4baf-9b9b-fdd0ae0b679b', 'user_id': 7248, 'action': 'scroll', 'timestamp': '2025-09-07T00:09:03.838915Z'}
+2025-09-06 19:09:03 | INFO | Sent message to topic 'buzzline': {'event_id': '83b422d7-2c74-4baf-9b9b-fdd0ae0b679b', 'user_id': 7248, 'action': 'scroll', 'timestamp': '2025-09-07T00:09:03.838915Z'}
+2025-09-06 19:09:04 | INFO | Generated JSON message: {'event_id': 'bbae74b3-4287-45d5-ac3f-4741c53dacf7', 'user_id': 9316, 'action': 'purchase', 'timestamp': '2025-09-07T00:09:04.842158Z'}
+2025-09-06 19:09:04 | INFO | Sent message to topic 'buzzline': {'event_id': 'bbae74b3-4287-45d5-ac3f-4741c53dacf7', 'user_id': 9316, 'action': 'purchase', 'timestamp': '2025-09-07T00:09:04.842158Z'}
+2025-09-06 19:09:05 | INFO | Generated JSON message: {'event_id': '011476e9-c3c1-4aa2-a008-802b9682f527', 'user_id': 8334, 'action': 'purchase', 'timestamp': '2025-09-07T00:09:05.845689Z'}
+2025-09-06 19:09:05 | INFO | Sent message to topic 'buzzline': {'event_id': '011476e9-c3c1-4aa2-a008-802b9682f527', 'user_id': 8334, 'action': 'purchase', 'timestamp': '2025-09-07T00:09:05.845689Z'}
+2025-09-06 19:09:06 | INFO | Generated JSON message: {'event_id': '1ba19027-135f-4335-85a8-a40c519c953b', 'user_id': 7736, 'action': 'view', 'timestamp': '2025-09-07T00:09:06.850425Z'}
+2025-09-06 19:09:06 | INFO | Sent message to topic 'buzzline': {'event_id': '1ba19027-135f-4335-85a8-a40c519c953b', 'user_id': 7736, 'action': 'view', 'timestamp': '2025-09-07T00:09:06.850425Z'}
+2025-09-06 19:09:07 | INFO | Generated JSON message: {'event_id': '4ee72b4a-f8e8-4715-a3d7-26d5599a95ee', 'user_id': 2801, 'action': 'click', 'timestamp': '2025-09-07T00:09:07.855382Z'}
+2025-09-06 19:09:07 | INFO | Sent message to topic 'buzzline': {'event_id': '4ee72b4a-f8e8-4715-a3d7-26d5599a95ee', 'user_id': 2801, 'action': 'click', 'timestamp': '2025-09-07T00:09:07.855382Z'}
+2025-09-06 19:09:08 | INFO | Generated JSON message: {'event_id': '369c1b30-1f4a-4002-bc61-d77e3baa4901', 'user_id': 4671, 'action': 'scroll', 'timestamp': '2025-09-07T00:09:08.858235Z'}
+2025-09-06 19:09:08 | INFO | Sent message to topic 'buzzline': {'event_id': '369c1b30-1f4a-4002-bc61-d77e3baa4901', 'user_id': 4671, 'action': 'scroll', 'timestamp': '2025-09-07T00:09:08.858235Z'}
+2025-09-06 19:09:09 | INFO | Generated JSON message: {'event_id': '5f38313e-7c76-43e7-a83c-8fb44e77cee8', 'user_id': 7310, 'action': 'purchase', 'timestamp': '2025-09-07T00:09:09.861289Z'}
+2025-09-06 19:09:09 | INFO | Sent message to topic 'buzzline': {'event_id': '5f38313e-7c76-43e7-a83c-8fb44e77cee8', 'user_id': 7310, 'action': 'purchase', 'timestamp': '2025-09-07T00:09:09.861289Z'}
+2025-09-06 19:09:10 | INFO | Generated JSON message: {'event_id': '6746f57b-cf90-46ec-8739-151b07d4559c', 'user_id': 6615, 'action': 'purchase', 'timestamp': '2025-09-07T00:09:10.866125Z'}
+2025-09-06 19:09:10 | INFO | Sent message to topic 'buzzline': {'event_id': '6746f57b-cf90-46ec-8739-151b07d4559c', 'user_id': 6615, 'action': 'purchase', 'timestamp': '2025-09-07T00:09:10.866125Z'}
+2025-09-06 19:09:11 | INFO | Generated JSON message: {'event_id': 'bd2fcf78-fec0-4145-91e3-d37edeef603a', 'user_id': 4472, 'action': 'view', 'timestamp': '2025-09-07T00:09:11.869100Z'}
+2025-09-06 19:09:11 | INFO | Sent message to topic 'buzzline': {'event_id': 'bd2fcf78-fec0-4145-91e3-d37edeef603a', 'user_id': 4472, 'action': 'view', 'timestamp': '2025-09-07T00:09:11.869100Z'}
+2025-09-06 19:09:12 | INFO | Generated JSON message: {'event_id': '95cfd038-3e6b-40a8-b732-e2986bee1e64', 'user_id': 4255, 'action': 'logout', 'timestamp': '2025-09-07T00:09:12.871828Z'}
+2025-09-06 19:09:12 | INFO | Sent message to topic 'buzzline': {'event_id': '95cfd038-3e6b-40a8-b732-e2986bee1e64', 'user_id': 4255, 'action': 'logout', 'timestamp': '2025-09-07T00:09:12.871828Z'}
+2025-09-06 19:09:13 | INFO | Generated JSON message: {'event_id': '121bf112-417e-47a3-9384-5846f555871a', 'user_id': 4065, 'action': 'logout', 'timestamp': '2025-09-07T00:09:13.875001Z'}
+2025-09-06 19:09:13 | INFO | Sent message to topic 'buzzline': {'event_id': '121bf112-417e-47a3-9384-5846f555871a', 'user_id': 4065, 'action': 'logout', 'timestamp': '2025-09-07T00:09:13.875001Z'}
+2025-09-06 19:09:14 | INFO | Generated JSON message: {'event_id': '3a2fc04a-807c-43f7-9d01-fb636080c61f', 'user_id': 4914, 'action': 'click', 'timestamp': '2025-09-07T00:09:14.878081Z'}
+2025-09-06 19:09:14 | INFO | Sent message to topic 'buzzline': {'event_id': '3a2fc04a-807c-43f7-9d01-fb636080c61f', 'user_id': 4914, 'action': 'click', 'timestamp': '2025-09-07T00:09:14.878081Z'}
+2025-09-06 19:09:15 | INFO | Generated JSON message: {'event_id': '10af2b19-4fb1-4921-a733-e9db14e8c3a1', 'user_id': 8085, 'action': 'click', 'timestamp': '2025-09-07T00:09:15.886072Z'}
+2025-09-06 19:09:15 | INFO | Sent message to topic 'buzzline': {'event_id': '10af2b19-4fb1-4921-a733-e9db14e8c3a1', 'user_id': 8085, 'action': 'click', 'timestamp': '2025-09-07T00:09:15.886072Z'}
+2025-09-06 19:09:16 | INFO | Generated JSON message: {'event_id': '619dd20f-3a9e-467f-aa59-82101b36c3f2', 'user_id': 4518, 'action': 'scroll', 'timestamp': '2025-09-07T00:09:16.890443Z'}
+2025-09-06 19:09:16 | INFO | Sent message to topic 'buzzline': {'event_id': '619dd20f-3a9e-467f-aa59-82101b36c3f2', 'user_id': 4518, 'action': 'scroll', 'timestamp': '2025-09-07T00:09:16.890443Z'}
+2025-09-06 19:09:17 | INFO | Generated JSON message: {'event_id': '46a19f4e-a12c-4106-abca-e8a87c429471', 'user_id': 6882, 'action': 'click', 'timestamp': '2025-09-07T00:09:17.894499Z'}
+2025-09-06 19:09:17 | INFO | Sent message to topic 'buzzline': {'event_id': '46a19f4e-a12c-4106-abca-e8a87c429471', 'user_id': 6882, 'action': 'click', 'timestamp': '2025-09-07T00:09:17.894499Z'}
+2025-09-06 19:09:18 | INFO | Generated JSON message: {'event_id': '6e88b532-8efd-4380-b8af-4038628b16b6', 'user_id': 2828, 'action': 'view', 'timestamp': '2025-09-07T00:09:18.899454Z'}
+2025-09-06 19:09:18 | INFO | Sent message to topic 'buzzline': {'event_id': '6e88b532-8efd-4380-b8af-4038628b16b6', 'user_id': 2828, 'action': 'view', 'timestamp': '2025-09-07T00:09:18.899454Z'}
+2025-09-06 19:09:19 | INFO | Generated JSON message: {'event_id': 'de5b53ff-4107-4e89-a4d6-c5142fe37f76', 'user_id': 3916, 'action': 'click', 'timestamp': '2025-09-07T00:09:19.902799Z'}
+2025-09-06 19:09:19 | INFO | Sent message to topic 'buzzline': {'event_id': 'de5b53ff-4107-4e89-a4d6-c5142fe37f76', 'user_id': 3916, 'action': 'click', 'timestamp': '2025-09-07T00:09:19.902799Z'}
+2025-09-06 19:09:20 | INFO | Generated JSON message: {'event_id': 'e30b96a6-a547-4a18-8345-2a3a524013c2', 'user_id': 7424, 'action': 'purchase', 'timestamp': '2025-09-07T00:09:20.906499Z'}
+2025-09-06 19:09:20 | INFO | Sent message to topic 'buzzline': {'event_id': 'e30b96a6-a547-4a18-8345-2a3a524013c2', 'user_id': 7424, 'action': 'purchase', 'timestamp': '2025-09-07T00:09:20.906499Z'}
+2025-09-06 19:09:21 | INFO | Generated JSON message: {'event_id': '78ec0e00-0bbf-4e6f-8c76-8a49da3282cd', 'user_id': 9308, 'action': 'scroll', 'timestamp': '2025-09-07T00:09:21.910778Z'}
+2025-09-06 19:09:21 | INFO | Sent message to topic 'buzzline': {'event_id': '78ec0e00-0bbf-4e6f-8c76-8a49da3282cd', 'user_id': 9308, 'action': 'scroll', 'timestamp': '2025-09-07T00:09:21.910778Z'}
+2025-09-06 19:09:22 | INFO | Generated JSON message: {'event_id': 'efef6048-c22d-44ef-9708-aa257fcd9287', 'user_id': 6859, 'action': 'scroll', 'timestamp': '2025-09-07T00:09:22.915371Z'}
+2025-09-06 19:09:22 | INFO | Sent message to topic 'buzzline': {'event_id': 'efef6048-c22d-44ef-9708-aa257fcd9287', 'user_id': 6859, 'action': 'scroll', 'timestamp': '2025-09-07T00:09:22.915371Z'}
+2025-09-06 19:09:23 | INFO | Generated JSON message: {'event_id': 'bb4b4ba4-e4a7-4052-bed5-d20467808f87', 'user_id': 5306, 'action': 'login', 'timestamp': '2025-09-07T00:09:23.920559Z'}
+2025-09-06 19:09:23 | INFO | Sent message to topic 'buzzline': {'event_id': 'bb4b4ba4-e4a7-4052-bed5-d20467808f87', 'user_id': 5306, 'action': 'login', 'timestamp': '2025-09-07T00:09:23.920559Z'}
+2025-09-06 19:09:24 | INFO | Generated JSON message: {'event_id': '708e1b1f-24c5-48ae-a782-0ffaaf45cfd2', 'user_id': 3574, 'action': 'scroll', 'timestamp': '2025-09-07T00:09:24.926344Z'}
+2025-09-06 19:09:24 | INFO | Sent message to topic 'buzzline': {'event_id': '708e1b1f-24c5-48ae-a782-0ffaaf45cfd2', 'user_id': 3574, 'action': 'scroll', 'timestamp': '2025-09-07T00:09:24.926344Z'}
+2025-09-06 19:09:25 | INFO | Generated JSON message: {'event_id': 'fccb2163-9cdf-445c-9795-17a60f2c72ea', 'user_id': 8945, 'action': 'view', 'timestamp': '2025-09-07T00:09:25.929354Z'}
+2025-09-06 19:09:25 | INFO | Sent message to topic 'buzzline': {'event_id': 'fccb2163-9cdf-445c-9795-17a60f2c72ea', 'user_id': 8945, 'action': 'view', 'timestamp': '2025-09-07T00:09:25.929354Z'}
+2025-09-06 19:09:26 | INFO | Generated JSON message: {'event_id': 'a9114d90-35dc-43e8-8e68-3030aa75fd62', 'user_id': 1278, 'action': 'scroll', 'timestamp': '2025-09-07T00:09:26.941154Z'}
+2025-09-06 19:09:26 | INFO | Sent message to topic 'buzzline': {'event_id': 'a9114d90-35dc-43e8-8e68-3030aa75fd62', 'user_id': 1278, 'action': 'scroll', 'timestamp': '2025-09-07T00:09:26.941154Z'}
+2025-09-06 19:09:27 | INFO | Generated JSON message: {'event_id': '930eebb2-4520-4089-9723-64fca39aa480', 'user_id': 8384, 'action': 'scroll', 'timestamp': '2025-09-07T00:09:27.943722Z'}
+2025-09-06 19:09:27 | INFO | Sent message to topic 'buzzline': {'event_id': '930eebb2-4520-4089-9723-64fca39aa480', 'user_id': 8384, 'action': 'scroll', 'timestamp': '2025-09-07T00:09:27.943722Z'}
+2025-09-06 19:09:28 | INFO | Generated JSON message: {'event_id': '7fca2e0a-17aa-419a-b354-16642c6785be', 'user_id': 8512, 'action': 'login', 'timestamp': '2025-09-07T00:09:28.947039Z'}
+2025-09-06 19:09:28 | INFO | Sent message to topic 'buzzline': {'event_id': '7fca2e0a-17aa-419a-b354-16642c6785be', 'user_id': 8512, 'action': 'login', 'timestamp': '2025-09-07T00:09:28.947039Z'}
+2025-09-06 19:09:29 | INFO | Generated JSON message: {'event_id': 'd9a6b3ce-9c3d-46a1-b7e9-4d544e130460', 'user_id': 2451, 'action': 'logout', 'timestamp': '2025-09-07T00:09:29.953678Z'}
+2025-09-06 19:09:29 | INFO | Sent message to topic 'buzzline': {'event_id': 'd9a6b3ce-9c3d-46a1-b7e9-4d544e130460', 'user_id': 2451, 'action': 'logout', 'timestamp': '2025-09-07T00:09:29.953678Z'}
+2025-09-06 19:09:30 | INFO | Generated JSON message: {'event_id': 'a9e32a27-a728-4d77-a450-d6424db6bacc', 'user_id': 6016, 'action': 'login', 'timestamp': '2025-09-07T00:09:30.958132Z'}
+2025-09-06 19:09:30 | INFO | Sent message to topic 'buzzline': {'event_id': 'a9e32a27-a728-4d77-a450-d6424db6bacc', 'user_id': 6016, 'action': 'login', 'timestamp': '2025-09-07T00:09:30.958132Z'}
+2025-09-06 19:09:31 | INFO | Generated JSON message: {'event_id': '126190e9-c190-4a17-9872-ed286f07a759', 'user_id': 5069, 'action': 'login', 'timestamp': '2025-09-07T00:09:31.961196Z'}
+2025-09-06 19:09:31 | INFO | Sent message to topic 'buzzline': {'event_id': '126190e9-c190-4a17-9872-ed286f07a759', 'user_id': 5069, 'action': 'login', 'timestamp': '2025-09-07T00:09:31.961196Z'}
+2025-09-06 19:09:32 | INFO | Generated JSON message: {'event_id': 'e5e0ec4d-5216-43d7-ade0-413072e61d8c', 'user_id': 9369, 'action': 'click', 'timestamp': '2025-09-07T00:09:32.965022Z'}
+2025-09-06 19:09:32 | INFO | Sent message to topic 'buzzline': {'event_id': 'e5e0ec4d-5216-43d7-ade0-413072e61d8c', 'user_id': 9369, 'action': 'click', 'timestamp': '2025-09-07T00:09:32.965022Z'}
+2025-09-06 19:09:33 | INFO | Generated JSON message: {'event_id': '7d5f126a-689b-46e5-9abe-388914e5e8de', 'user_id': 8472, 'action': 'login', 'timestamp': '2025-09-07T00:09:33.967742Z'}
+2025-09-06 19:09:33 | INFO | Sent message to topic 'buzzline': {'event_id': '7d5f126a-689b-46e5-9abe-388914e5e8de', 'user_id': 8472, 'action': 'login', 'timestamp': '2025-09-07T00:09:33.967742Z'}
+2025-09-06 19:09:34 | INFO | Generated JSON message: {'event_id': '4681cb5f-9ce8-46be-8d7d-c5343550785b', 'user_id': 9124, 'action': 'logout', 'timestamp': '2025-09-07T00:09:34.970656Z'}
+2025-09-06 19:09:34 | INFO | Sent message to topic 'buzzline': {'event_id': '4681cb5f-9ce8-46be-8d7d-c5343550785b', 'user_id': 9124, 'action': 'logout', 'timestamp': '2025-09-07T00:09:34.970656Z'}
+2025-09-06 19:09:35 | INFO | Generated JSON message: {'event_id': 'c2df9b47-1cdd-4921-84ab-46b8d5200c6f', 'user_id': 8230, 'action': 'login', 'timestamp': '2025-09-07T00:09:35.973723Z'}
+2025-09-06 19:09:35 | INFO | Sent message to topic 'buzzline': {'event_id': 'c2df9b47-1cdd-4921-84ab-46b8d5200c6f', 'user_id': 8230, 'action': 'login', 'timestamp': '2025-09-07T00:09:35.973723Z'}
+2025-09-06 19:09:36 | INFO | Generated JSON message: {'event_id': '5d3f0899-225e-43d9-91f2-831f2be3a8e4', 'user_id': 8643, 'action': 'scroll', 'timestamp': '2025-09-07T00:09:36.976835Z'}
+2025-09-06 19:09:36 | INFO | Sent message to topic 'buzzline': {'event_id': '5d3f0899-225e-43d9-91f2-831f2be3a8e4', 'user_id': 8643, 'action': 'scroll', 'timestamp': '2025-09-07T00:09:36.976835Z'}
+2025-09-06 19:09:37 | INFO | Generated JSON message: {'event_id': 'a9c16543-feb4-425d-9a25-bf341900102c', 'user_id': 2290, 'action': 'purchase', 'timestamp': '2025-09-07T00:09:37.980171Z'}
+2025-09-06 19:09:37 | INFO | Sent message to topic 'buzzline': {'event_id': 'a9c16543-feb4-425d-9a25-bf341900102c', 'user_id': 2290, 'action': 'purchase', 'timestamp': '2025-09-07T00:09:37.980171Z'}
+2025-09-06 19:09:38 | INFO | Generated JSON message: {'event_id': '6b256b0a-3e94-4283-9b94-1280d57674f8', 'user_id': 3236, 'action': 'purchase', 'timestamp': '2025-09-07T00:09:38.984921Z'}
+2025-09-06 19:09:38 | INFO | Sent message to topic 'buzzline': {'event_id': '6b256b0a-3e94-4283-9b94-1280d57674f8', 'user_id': 3236, 'action': 'purchase', 'timestamp': '2025-09-07T00:09:38.984921Z'}
+2025-09-06 19:09:39 | INFO | Generated JSON message: {'event_id': '62e5d761-0126-4641-99dc-1bf53c9c85b3', 'user_id': 3306, 'action': 'purchase', 'timestamp': '2025-09-07T00:09:39.992713Z'}
+2025-09-06 19:09:39 | INFO | Sent message to topic 'buzzline': {'event_id': '62e5d761-0126-4641-99dc-1bf53c9c85b3', 'user_id': 3306, 'action': 'purchase', 'timestamp': '2025-09-07T00:09:39.992713Z'}
+2025-09-06 19:09:40 | INFO | Generated JSON message: {'event_id': '7ef45e27-7421-4b74-b922-de8511d5a782', 'user_id': 4066, 'action': 'view', 'timestamp': '2025-09-07T00:09:40.995375Z'}
+2025-09-06 19:09:40 | INFO | Sent message to topic 'buzzline': {'event_id': '7ef45e27-7421-4b74-b922-de8511d5a782', 'user_id': 4066, 'action': 'view', 'timestamp': '2025-09-07T00:09:40.995375Z'}
+2025-09-06 19:09:41 | INFO | Generated JSON message: {'event_id': '67a9527c-d920-4e01-8a24-a4ed63843e23', 'user_id': 2524, 'action': 'logout', 'timestamp': '2025-09-07T00:09:41.998393Z'}
+2025-09-06 19:09:41 | INFO | Sent message to topic 'buzzline': {'event_id': '67a9527c-d920-4e01-8a24-a4ed63843e23', 'user_id': 2524, 'action': 'logout', 'timestamp': '2025-09-07T00:09:41.998393Z'}
+2025-09-06 19:09:43 | INFO | Generated JSON message: {'event_id': 'e68c04bb-f32e-4767-8761-8f4010498e24', 'user_id': 5245, 'action': 'logout', 'timestamp': '2025-09-07T00:09:43.001460Z'}
+2025-09-06 19:09:43 | INFO | Sent message to topic 'buzzline': {'event_id': 'e68c04bb-f32e-4767-8761-8f4010498e24', 'user_id': 5245, 'action': 'logout', 'timestamp': '2025-09-07T00:09:43.001460Z'}
+2025-09-06 19:09:44 | INFO | Generated JSON message: {'event_id': 'ec70023c-8bfe-4cd9-80d1-6be665333a41', 'user_id': 4748, 'action': 'login', 'timestamp': '2025-09-07T00:09:44.005116Z'}
+2025-09-06 19:09:44 | INFO | Sent message to topic 'buzzline': {'event_id': 'ec70023c-8bfe-4cd9-80d1-6be665333a41', 'user_id': 4748, 'action': 'login', 'timestamp': '2025-09-07T00:09:44.005116Z'}
+2025-09-06 19:09:45 | INFO | Generated JSON message: {'event_id': '913f6e8d-1e3b-4009-813a-ec8c84224554', 'user_id': 8018, 'action': 'scroll', 'timestamp': '2025-09-07T00:09:45.010786Z'}
+2025-09-06 19:09:45 | INFO | Sent message to topic 'buzzline': {'event_id': '913f6e8d-1e3b-4009-813a-ec8c84224554', 'user_id': 8018, 'action': 'scroll', 'timestamp': '2025-09-07T00:09:45.010786Z'}
+2025-09-06 19:09:46 | INFO | Generated JSON message: {'event_id': '05452ede-06e4-4b1b-a64b-87d0d5b26ba4', 'user_id': 4361, 'action': 'login', 'timestamp': '2025-09-07T00:09:46.014147Z'}
+2025-09-06 19:09:46 | INFO | Sent message to topic 'buzzline': {'event_id': '05452ede-06e4-4b1b-a64b-87d0d5b26ba4', 'user_id': 4361, 'action': 'login', 'timestamp': '2025-09-07T00:09:46.014147Z'}
+2025-09-06 19:09:47 | INFO | Generated JSON message: {'event_id': 'd3971501-2af8-49dc-90eb-60c3c605b635', 'user_id': 1932, 'action': 'purchase', 'timestamp': '2025-09-07T00:09:47.017851Z'}
+2025-09-06 19:09:47 | INFO | Sent message to topic 'buzzline': {'event_id': 'd3971501-2af8-49dc-90eb-60c3c605b635', 'user_id': 1932, 'action': 'purchase', 'timestamp': '2025-09-07T00:09:47.017851Z'}
+2025-09-06 19:09:48 | INFO | Generated JSON message: {'event_id': 'a71407a5-d4d8-4088-b481-d73b3bac6669', 'user_id': 4355, 'action': 'login', 'timestamp': '2025-09-07T00:09:48.030858Z'}
+2025-09-06 19:09:48 | INFO | Sent message to topic 'buzzline': {'event_id': 'a71407a5-d4d8-4088-b481-d73b3bac6669', 'user_id': 4355, 'action': 'login', 'timestamp': '2025-09-07T00:09:48.030858Z'}
+2025-09-06 19:09:49 | INFO | Generated JSON message: {'event_id': 'f39902e6-a3e9-45ee-a91c-35992b784728', 'user_id': 4634, 'action': 'logout', 'timestamp': '2025-09-07T00:09:49.035566Z'}
+2025-09-06 19:09:49 | INFO | Sent message to topic 'buzzline': {'event_id': 'f39902e6-a3e9-45ee-a91c-35992b784728', 'user_id': 4634, 'action': 'logout', 'timestamp': '2025-09-07T00:09:49.035566Z'}
+2025-09-06 19:09:50 | INFO | Generated JSON message: {'event_id': '299d7654-3e7a-4ddf-8352-9fdf52b236dd', 'user_id': 7504, 'action': 'click', 'timestamp': '2025-09-07T00:09:50.038473Z'}
+2025-09-06 19:09:50 | INFO | Sent message to topic 'buzzline': {'event_id': '299d7654-3e7a-4ddf-8352-9fdf52b236dd', 'user_id': 7504, 'action': 'click', 'timestamp': '2025-09-07T00:09:50.038473Z'}
+2025-09-06 19:09:51 | INFO | Generated JSON message: {'event_id': '850499da-4f1c-44fe-abee-2a6956c29ba7', 'user_id': 6575, 'action': 'scroll', 'timestamp': '2025-09-07T00:09:51.044489Z'}
+2025-09-06 19:09:51 | INFO | Sent message to topic 'buzzline': {'event_id': '850499da-4f1c-44fe-abee-2a6956c29ba7', 'user_id': 6575, 'action': 'scroll', 'timestamp': '2025-09-07T00:09:51.044489Z'}
+2025-09-06 19:09:52 | INFO | Generated JSON message: {'event_id': 'a06d9eac-a1b9-4b40-87c7-9146e8220632', 'user_id': 5259, 'action': 'logout', 'timestamp': '2025-09-07T00:09:52.047891Z'}
+2025-09-06 19:09:52 | INFO | Sent message to topic 'buzzline': {'event_id': 'a06d9eac-a1b9-4b40-87c7-9146e8220632', 'user_id': 5259, 'action': 'logout', 'timestamp': '2025-09-07T00:09:52.047891Z'}
+2025-09-06 19:09:53 | INFO | Generated JSON message: {'event_id': '9cca6eea-dd0d-4b74-a439-7f097eb23442', 'user_id': 9253, 'action': 'login', 'timestamp': '2025-09-07T00:09:53.052763Z'}
+2025-09-06 19:09:53 | INFO | Sent message to topic 'buzzline': {'event_id': '9cca6eea-dd0d-4b74-a439-7f097eb23442', 'user_id': 9253, 'action': 'login', 'timestamp': '2025-09-07T00:09:53.052763Z'}
+2025-09-06 19:09:54 | INFO | Generated JSON message: {'event_id': '2674f0d9-c052-419c-afb5-2dbb57c198d2', 'user_id': 5858, 'action': 'scroll', 'timestamp': '2025-09-07T00:09:54.061210Z'}
+2025-09-06 19:09:54 | INFO | Sent message to topic 'buzzline': {'event_id': '2674f0d9-c052-419c-afb5-2dbb57c198d2', 'user_id': 5858, 'action': 'scroll', 'timestamp': '2025-09-07T00:09:54.061210Z'}
+2025-09-06 19:09:55 | INFO | Generated JSON message: {'event_id': '558db65d-94cb-4bb9-909e-f6dfd848c1be', 'user_id': 8866, 'action': 'purchase', 'timestamp': '2025-09-07T00:09:55.064614Z'}
+2025-09-06 19:09:55 | INFO | Sent message to topic 'buzzline': {'event_id': '558db65d-94cb-4bb9-909e-f6dfd848c1be', 'user_id': 8866, 'action': 'purchase', 'timestamp': '2025-09-07T00:09:55.064614Z'}
+2025-09-06 19:09:56 | INFO | Generated JSON message: {'event_id': '40a080ec-d7e9-4234-88fc-e0e69d257b61', 'user_id': 8852, 'action': 'purchase', 'timestamp': '2025-09-07T00:09:56.067727Z'}
+2025-09-06 19:09:56 | INFO | Sent message to topic 'buzzline': {'event_id': '40a080ec-d7e9-4234-88fc-e0e69d257b61', 'user_id': 8852, 'action': 'purchase', 'timestamp': '2025-09-07T00:09:56.067727Z'}
+2025-09-06 19:09:57 | INFO | Generated JSON message: {'event_id': '710882ca-59d5-41e8-8131-e55d2d1945b1', 'user_id': 4810, 'action': 'scroll', 'timestamp': '2025-09-07T00:09:57.073298Z'}
+2025-09-06 19:09:57 | INFO | Sent message to topic 'buzzline': {'event_id': '710882ca-59d5-41e8-8131-e55d2d1945b1', 'user_id': 4810, 'action': 'scroll', 'timestamp': '2025-09-07T00:09:57.073298Z'}
+2025-09-06 19:09:58 | INFO | Generated JSON message: {'event_id': 'd6f3e254-60a5-4ad1-8ccb-ef8f2351634b', 'user_id': 6444, 'action': 'scroll', 'timestamp': '2025-09-07T00:09:58.077199Z'}
+2025-09-06 19:09:58 | INFO | Sent message to topic 'buzzline': {'event_id': 'd6f3e254-60a5-4ad1-8ccb-ef8f2351634b', 'user_id': 6444, 'action': 'scroll', 'timestamp': '2025-09-07T00:09:58.077199Z'}
+2025-09-06 19:09:59 | INFO | Generated JSON message: {'event_id': 'f992a8ed-68b0-42ea-8035-8ed27b2a0f1d', 'user_id': 4795, 'action': 'logout', 'timestamp': '2025-09-07T00:09:59.080955Z'}
+2025-09-06 19:09:59 | INFO | Sent message to topic 'buzzline': {'event_id': 'f992a8ed-68b0-42ea-8035-8ed27b2a0f1d', 'user_id': 4795, 'action': 'logout', 'timestamp': '2025-09-07T00:09:59.080955Z'}
+2025-09-06 19:10:00 | INFO | Generated JSON message: {'event_id': '92b905d6-d90e-4909-ad07-6aaef0f3a493', 'user_id': 8082, 'action': 'login', 'timestamp': '2025-09-07T00:10:00.090922Z'}
+2025-09-06 19:10:00 | INFO | Sent message to topic 'buzzline': {'event_id': '92b905d6-d90e-4909-ad07-6aaef0f3a493', 'user_id': 8082, 'action': 'login', 'timestamp': '2025-09-07T00:10:00.090922Z'}
+2025-09-06 19:10:01 | INFO | Generated JSON message: {'event_id': '671bff65-6de2-4971-883f-7b884e5acf97', 'user_id': 4523, 'action': 'scroll', 'timestamp': '2025-09-07T00:10:01.110135Z'}
+2025-09-06 19:10:01 | INFO | Sent message to topic 'buzzline': {'event_id': '671bff65-6de2-4971-883f-7b884e5acf97', 'user_id': 4523, 'action': 'scroll', 'timestamp': '2025-09-07T00:10:01.110135Z'}
+2025-09-06 19:10:02 | INFO | Generated JSON message: {'event_id': 'bd221907-61b4-4e5b-b04b-2b8bef68257e', 'user_id': 9439, 'action': 'click', 'timestamp': '2025-09-07T00:10:02.125712Z'}
+2025-09-06 19:10:02 | INFO | Sent message to topic 'buzzline': {'event_id': 'bd221907-61b4-4e5b-b04b-2b8bef68257e', 'user_id': 9439, 'action': 'click', 'timestamp': '2025-09-07T00:10:02.125712Z'}
+2025-09-06 19:10:03 | INFO | Generated JSON message: {'event_id': 'e4904d54-c3cb-421f-a384-589e8c2b4f9a', 'user_id': 2305, 'action': 'logout', 'timestamp': '2025-09-07T00:10:03.128623Z'}
+2025-09-06 19:10:03 | INFO | Sent message to topic 'buzzline': {'event_id': 'e4904d54-c3cb-421f-a384-589e8c2b4f9a', 'user_id': 2305, 'action': 'logout', 'timestamp': '2025-09-07T00:10:03.128623Z'}
+2025-09-06 19:10:04 | INFO | Generated JSON message: {'event_id': '83af3e41-08bc-46c4-9a5f-f90d98e455bc', 'user_id': 8619, 'action': 'scroll', 'timestamp': '2025-09-07T00:10:04.132209Z'}
+2025-09-06 19:10:04 | INFO | Sent message to topic 'buzzline': {'event_id': '83af3e41-08bc-46c4-9a5f-f90d98e455bc', 'user_id': 8619, 'action': 'scroll', 'timestamp': '2025-09-07T00:10:04.132209Z'}
+2025-09-06 19:10:05 | INFO | Generated JSON message: {'event_id': '7402bf14-0c85-48f3-9eb5-b9498e7cf6f4', 'user_id': 2633, 'action': 'login', 'timestamp': '2025-09-07T00:10:05.135179Z'}
+2025-09-06 19:10:05 | INFO | Sent message to topic 'buzzline': {'event_id': '7402bf14-0c85-48f3-9eb5-b9498e7cf6f4', 'user_id': 2633, 'action': 'login', 'timestamp': '2025-09-07T00:10:05.135179Z'}
+2025-09-06 19:10:06 | INFO | Generated JSON message: {'event_id': '86936284-a77b-432c-af51-158d30c0290c', 'user_id': 8729, 'action': 'scroll', 'timestamp': '2025-09-07T00:10:06.137949Z'}
+2025-09-06 19:10:06 | INFO | Sent message to topic 'buzzline': {'event_id': '86936284-a77b-432c-af51-158d30c0290c', 'user_id': 8729, 'action': 'scroll', 'timestamp': '2025-09-07T00:10:06.137949Z'}
+2025-09-06 19:10:07 | INFO | Generated JSON message: {'event_id': 'bfb64fb8-87ed-4fd9-853b-269f6b850655', 'user_id': 2831, 'action': 'logout', 'timestamp': '2025-09-07T00:10:07.142387Z'}
+2025-09-06 19:10:07 | INFO | Sent message to topic 'buzzline': {'event_id': 'bfb64fb8-87ed-4fd9-853b-269f6b850655', 'user_id': 2831, 'action': 'logout', 'timestamp': '2025-09-07T00:10:07.142387Z'}
+2025-09-06 19:10:08 | INFO | Generated JSON message: {'event_id': 'f0ff7da5-0ef3-44e3-9e9d-4555510f4fd3', 'user_id': 7292, 'action': 'purchase', 'timestamp': '2025-09-07T00:10:08.146069Z'}
+2025-09-06 19:10:08 | INFO | Sent message to topic 'buzzline': {'event_id': 'f0ff7da5-0ef3-44e3-9e9d-4555510f4fd3', 'user_id': 7292, 'action': 'purchase', 'timestamp': '2025-09-07T00:10:08.146069Z'}
+2025-09-06 19:10:09 | INFO | Generated JSON message: {'event_id': 'efc99fb6-9eb1-498a-92d7-6ab62a521942', 'user_id': 2229, 'action': 'view', 'timestamp': '2025-09-07T00:10:09.151667Z'}
+2025-09-06 19:10:09 | INFO | Sent message to topic 'buzzline': {'event_id': 'efc99fb6-9eb1-498a-92d7-6ab62a521942', 'user_id': 2229, 'action': 'view', 'timestamp': '2025-09-07T00:10:09.151667Z'}
+2025-09-06 19:10:10 | INFO | Generated JSON message: {'event_id': '565e481b-dc28-4e38-951a-92b1c03c60be', 'user_id': 7512, 'action': 'click', 'timestamp': '2025-09-07T00:10:10.155415Z'}
+2025-09-06 19:10:10 | INFO | Sent message to topic 'buzzline': {'event_id': '565e481b-dc28-4e38-951a-92b1c03c60be', 'user_id': 7512, 'action': 'click', 'timestamp': '2025-09-07T00:10:10.155415Z'}
+2025-09-06 19:10:11 | INFO | Generated JSON message: {'event_id': 'ae64a1ce-f332-459b-bb17-d02242dd2a6b', 'user_id': 7382, 'action': 'logout', 'timestamp': '2025-09-07T00:10:11.158331Z'}
+2025-09-06 19:10:11 | INFO | Sent message to topic 'buzzline': {'event_id': 'ae64a1ce-f332-459b-bb17-d02242dd2a6b', 'user_id': 7382, 'action': 'logout', 'timestamp': '2025-09-07T00:10:11.158331Z'}
+2025-09-06 19:10:12 | INFO | Generated JSON message: {'event_id': 'fe4696ba-7c67-4e49-9dcf-bfc988f820a0', 'user_id': 7479, 'action': 'click', 'timestamp': '2025-09-07T00:10:12.161380Z'}
+2025-09-06 19:10:12 | INFO | Sent message to topic 'buzzline': {'event_id': 'fe4696ba-7c67-4e49-9dcf-bfc988f820a0', 'user_id': 7479, 'action': 'click', 'timestamp': '2025-09-07T00:10:12.161380Z'}
+2025-09-06 19:10:13 | INFO | Generated JSON message: {'event_id': 'a668f5d3-5879-4a71-b281-c7ca33adfdf4', 'user_id': 1066, 'action': 'scroll', 'timestamp': '2025-09-07T00:10:13.164938Z'}
+2025-09-06 19:10:13 | INFO | Sent message to topic 'buzzline': {'event_id': 'a668f5d3-5879-4a71-b281-c7ca33adfdf4', 'user_id': 1066, 'action': 'scroll', 'timestamp': '2025-09-07T00:10:13.164938Z'}
+2025-09-06 19:10:14 | INFO | Generated JSON message: {'event_id': '411135c0-4c6a-4162-b2fc-2a693caf1bf6', 'user_id': 9796, 'action': 'purchase', 'timestamp': '2025-09-07T00:10:14.167953Z'}
+2025-09-06 19:10:14 | INFO | Sent message to topic 'buzzline': {'event_id': '411135c0-4c6a-4162-b2fc-2a693caf1bf6', 'user_id': 9796, 'action': 'purchase', 'timestamp': '2025-09-07T00:10:14.167953Z'}
+2025-09-06 19:10:15 | INFO | Generated JSON message: {'event_id': '8f377cb6-e7b6-41d9-b153-02744d3a8ab6', 'user_id': 6041, 'action': 'logout', 'timestamp': '2025-09-07T00:10:15.171611Z'}
+2025-09-06 19:10:15 | INFO | Sent message to topic 'buzzline': {'event_id': '8f377cb6-e7b6-41d9-b153-02744d3a8ab6', 'user_id': 6041, 'action': 'logout', 'timestamp': '2025-09-07T00:10:15.171611Z'}
+2025-09-06 19:10:16 | INFO | Generated JSON message: {'event_id': '063dda0d-c70a-40b4-b254-97f7fa3a89a1', 'user_id': 4004, 'action': 'purchase', 'timestamp': '2025-09-07T00:10:16.174394Z'}
+2025-09-06 19:10:16 | INFO | Sent message to topic 'buzzline': {'event_id': '063dda0d-c70a-40b4-b254-97f7fa3a89a1', 'user_id': 4004, 'action': 'purchase', 'timestamp': '2025-09-07T00:10:16.174394Z'}
+2025-09-06 19:10:17 | WARNING | Producer interrupted by user.
+2025-09-06 19:10:17 | INFO | Kafka producer closed.
+2025-09-06 19:10:17 | INFO | END producer.

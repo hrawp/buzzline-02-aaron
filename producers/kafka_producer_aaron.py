@@ -87,7 +87,7 @@ def generate_messages(producer, topic, interval_secs):
             logger.info(f"Generated JSON message: {message}")
 
             # Send as JSON-encoded bytes
-            producer.send(topic, value=json.dumps(message).encode("utf-8"))
+            producer.send(topic, value=json.dumps(message))
 
             logger.info(f"Sent message to topic '{topic}': {message}")
             time.sleep(interval_secs)
