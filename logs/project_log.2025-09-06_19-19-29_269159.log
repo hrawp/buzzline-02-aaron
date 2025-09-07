@@ -1,0 +1,91 @@
+2025-09-06 19:19:29 | INFO | Generated JSON message: {'event_id': '42963713-124b-4c39-afbc-a7cc3360dcc9', 'user_id': 3694, 'action': 'purchase', 'timestamp': '2025-09-07T00:19:29.203820Z'}
+2025-09-06 19:19:29 | INFO | Sent message to topic 'buzzline': {'event_id': '42963713-124b-4c39-afbc-a7cc3360dcc9', 'user_id': 3694, 'action': 'purchase', 'timestamp': '2025-09-07T00:19:29.203820Z'}
+2025-09-06 19:19:30 | INFO | Generated JSON message: {'event_id': 'bd4ce5a1-b824-4695-8df2-91162396dd89', 'user_id': 4549, 'action': 'logout', 'timestamp': '2025-09-07T00:19:30.274906Z'}
+2025-09-06 19:19:30 | INFO | Sent message to topic 'buzzline': {'event_id': 'bd4ce5a1-b824-4695-8df2-91162396dd89', 'user_id': 4549, 'action': 'logout', 'timestamp': '2025-09-07T00:19:30.274906Z'}
+2025-09-06 19:19:31 | INFO | Generated JSON message: {'event_id': 'b04ecf39-4ee9-40b1-81d5-b39bc4dbe1b0', 'user_id': 4364, 'action': 'login', 'timestamp': '2025-09-07T00:19:31.294955Z'}
+2025-09-06 19:19:31 | INFO | Sent message to topic 'buzzline': {'event_id': 'b04ecf39-4ee9-40b1-81d5-b39bc4dbe1b0', 'user_id': 4364, 'action': 'login', 'timestamp': '2025-09-07T00:19:31.294955Z'}
+2025-09-06 19:19:32 | INFO | Generated JSON message: {'event_id': '5d70996b-d4d0-451b-aa34-bc27506b4ab6', 'user_id': 5010, 'action': 'login', 'timestamp': '2025-09-07T00:19:32.305285Z'}
+2025-09-06 19:19:32 | INFO | Sent message to topic 'buzzline': {'event_id': '5d70996b-d4d0-451b-aa34-bc27506b4ab6', 'user_id': 5010, 'action': 'login', 'timestamp': '2025-09-07T00:19:32.305285Z'}
+2025-09-06 19:19:33 | INFO | Generated JSON message: {'event_id': 'bc4e2e24-37ec-4f60-9ad6-96550098170a', 'user_id': 7153, 'action': 'login', 'timestamp': '2025-09-07T00:19:33.308845Z'}
+2025-09-06 19:19:33 | INFO | Sent message to topic 'buzzline': {'event_id': 'bc4e2e24-37ec-4f60-9ad6-96550098170a', 'user_id': 7153, 'action': 'login', 'timestamp': '2025-09-07T00:19:33.308845Z'}
+2025-09-06 19:19:34 | INFO | Generated JSON message: {'event_id': '36d98a46-ffd0-408a-806f-d2c15d91f18a', 'user_id': 4168, 'action': 'view', 'timestamp': '2025-09-07T00:19:34.314443Z'}
+2025-09-06 19:19:34 | INFO | Sent message to topic 'buzzline': {'event_id': '36d98a46-ffd0-408a-806f-d2c15d91f18a', 'user_id': 4168, 'action': 'view', 'timestamp': '2025-09-07T00:19:34.314443Z'}
+2025-09-06 19:19:35 | INFO | Generated JSON message: {'event_id': '67bcded9-6d62-498b-9b03-c8dff8781e1a', 'user_id': 3276, 'action': 'click', 'timestamp': '2025-09-07T00:19:35.318082Z'}
+2025-09-06 19:19:35 | INFO | Sent message to topic 'buzzline': {'event_id': '67bcded9-6d62-498b-9b03-c8dff8781e1a', 'user_id': 3276, 'action': 'click', 'timestamp': '2025-09-07T00:19:35.318082Z'}
+2025-09-06 19:19:36 | INFO | Generated JSON message: {'event_id': '30e9fa0e-815b-4814-8820-dd552dd89d2d', 'user_id': 4825, 'action': 'purchase', 'timestamp': '2025-09-07T00:19:36.322525Z'}
+2025-09-06 19:19:36 | INFO | Sent message to topic 'buzzline': {'event_id': '30e9fa0e-815b-4814-8820-dd552dd89d2d', 'user_id': 4825, 'action': 'purchase', 'timestamp': '2025-09-07T00:19:36.322525Z'}
+2025-09-06 19:19:37 | INFO | Generated JSON message: {'event_id': '19b9fbfb-3753-43dc-938f-e39a5978d16a', 'user_id': 9624, 'action': 'login', 'timestamp': '2025-09-07T00:19:37.325411Z'}
+2025-09-06 19:19:37 | INFO | Sent message to topic 'buzzline': {'event_id': '19b9fbfb-3753-43dc-938f-e39a5978d16a', 'user_id': 9624, 'action': 'login', 'timestamp': '2025-09-07T00:19:37.325411Z'}
+2025-09-06 19:19:38 | INFO | Generated JSON message: {'event_id': 'c10a8c6b-a21c-4552-abe0-4c98fba4c35a', 'user_id': 9510, 'action': 'scroll', 'timestamp': '2025-09-07T00:19:38.330469Z'}
+2025-09-06 19:19:38 | INFO | Sent message to topic 'buzzline': {'event_id': 'c10a8c6b-a21c-4552-abe0-4c98fba4c35a', 'user_id': 9510, 'action': 'scroll', 'timestamp': '2025-09-07T00:19:38.330469Z'}
+2025-09-06 19:19:39 | INFO | Generated JSON message: {'event_id': '9b110617-35ea-496a-a10f-41c635d4ae8f', 'user_id': 6749, 'action': 'view', 'timestamp': '2025-09-07T00:19:39.334187Z'}
+2025-09-06 19:19:39 | INFO | Sent message to topic 'buzzline': {'event_id': '9b110617-35ea-496a-a10f-41c635d4ae8f', 'user_id': 6749, 'action': 'view', 'timestamp': '2025-09-07T00:19:39.334187Z'}
+2025-09-06 19:19:40 | INFO | Generated JSON message: {'event_id': '11640fe5-28cf-438e-80ac-f157ae925ab7', 'user_id': 8288, 'action': 'view', 'timestamp': '2025-09-07T00:19:40.338243Z'}
+2025-09-06 19:19:40 | INFO | Sent message to topic 'buzzline': {'event_id': '11640fe5-28cf-438e-80ac-f157ae925ab7', 'user_id': 8288, 'action': 'view', 'timestamp': '2025-09-07T00:19:40.338243Z'}
+2025-09-06 19:19:41 | INFO | Generated JSON message: {'event_id': 'caf4f931-712d-4c99-940c-dd1f45279951', 'user_id': 4813, 'action': 'scroll', 'timestamp': '2025-09-07T00:19:41.341030Z'}
+2025-09-06 19:19:41 | INFO | Sent message to topic 'buzzline': {'event_id': 'caf4f931-712d-4c99-940c-dd1f45279951', 'user_id': 4813, 'action': 'scroll', 'timestamp': '2025-09-07T00:19:41.341030Z'}
+2025-09-06 19:19:42 | INFO | Generated JSON message: {'event_id': '25c517cb-4853-4105-b1bc-76ecaa208d92', 'user_id': 3983, 'action': 'logout', 'timestamp': '2025-09-07T00:19:42.344213Z'}
+2025-09-06 19:19:42 | INFO | Sent message to topic 'buzzline': {'event_id': '25c517cb-4853-4105-b1bc-76ecaa208d92', 'user_id': 3983, 'action': 'logout', 'timestamp': '2025-09-07T00:19:42.344213Z'}
+2025-09-06 19:19:43 | INFO | Generated JSON message: {'event_id': '3811b510-1040-433f-8126-bc0d9df68477', 'user_id': 9192, 'action': 'purchase', 'timestamp': '2025-09-07T00:19:43.348354Z'}
+2025-09-06 19:19:43 | INFO | Sent message to topic 'buzzline': {'event_id': '3811b510-1040-433f-8126-bc0d9df68477', 'user_id': 9192, 'action': 'purchase', 'timestamp': '2025-09-07T00:19:43.348354Z'}
+2025-09-06 19:19:44 | INFO | Generated JSON message: {'event_id': 'f9afe66a-7a23-44aa-8042-f23e649aaf28', 'user_id': 4779, 'action': 'click', 'timestamp': '2025-09-07T00:19:44.352203Z'}
+2025-09-06 19:19:44 | INFO | Sent message to topic 'buzzline': {'event_id': 'f9afe66a-7a23-44aa-8042-f23e649aaf28', 'user_id': 4779, 'action': 'click', 'timestamp': '2025-09-07T00:19:44.352203Z'}
+2025-09-06 19:19:45 | INFO | Generated JSON message: {'event_id': 'cab95ae7-2325-4817-85c3-1fec1a7e7d7d', 'user_id': 1206, 'action': 'click', 'timestamp': '2025-09-07T00:19:45.355291Z'}
+2025-09-06 19:19:45 | INFO | Sent message to topic 'buzzline': {'event_id': 'cab95ae7-2325-4817-85c3-1fec1a7e7d7d', 'user_id': 1206, 'action': 'click', 'timestamp': '2025-09-07T00:19:45.355291Z'}
+2025-09-06 19:19:46 | INFO | Generated JSON message: {'event_id': '6d8cea57-9233-4606-8232-680afca52d89', 'user_id': 5612, 'action': 'scroll', 'timestamp': '2025-09-07T00:19:46.358696Z'}
+2025-09-06 19:19:46 | INFO | Sent message to topic 'buzzline': {'event_id': '6d8cea57-9233-4606-8232-680afca52d89', 'user_id': 5612, 'action': 'scroll', 'timestamp': '2025-09-07T00:19:46.358696Z'}
+2025-09-06 19:19:47 | INFO | Generated JSON message: {'event_id': '3e027850-7064-4f84-8b89-1fe81c8aa7f9', 'user_id': 4734, 'action': 'logout', 'timestamp': '2025-09-07T00:19:47.361341Z'}
+2025-09-06 19:19:47 | INFO | Sent message to topic 'buzzline': {'event_id': '3e027850-7064-4f84-8b89-1fe81c8aa7f9', 'user_id': 4734, 'action': 'logout', 'timestamp': '2025-09-07T00:19:47.361341Z'}
+2025-09-06 19:19:48 | INFO | Generated JSON message: {'event_id': '530674a9-8315-45dc-bf7c-0766eccd40dc', 'user_id': 5161, 'action': 'purchase', 'timestamp': '2025-09-07T00:19:48.364689Z'}
+2025-09-06 19:19:48 | INFO | Sent message to topic 'buzzline': {'event_id': '530674a9-8315-45dc-bf7c-0766eccd40dc', 'user_id': 5161, 'action': 'purchase', 'timestamp': '2025-09-07T00:19:48.364689Z'}
+2025-09-06 19:19:49 | INFO | Generated JSON message: {'event_id': '20be7062-e714-4f6b-9580-dbed68c63c27', 'user_id': 6300, 'action': 'purchase', 'timestamp': '2025-09-07T00:19:49.367165Z'}
+2025-09-06 19:19:49 | INFO | Sent message to topic 'buzzline': {'event_id': '20be7062-e714-4f6b-9580-dbed68c63c27', 'user_id': 6300, 'action': 'purchase', 'timestamp': '2025-09-07T00:19:49.367165Z'}
+2025-09-06 19:19:50 | INFO | Generated JSON message: {'event_id': '891a7e41-3322-40ba-910c-8d33faff83c0', 'user_id': 6713, 'action': 'login', 'timestamp': '2025-09-07T00:19:50.369917Z'}
+2025-09-06 19:19:50 | INFO | Sent message to topic 'buzzline': {'event_id': '891a7e41-3322-40ba-910c-8d33faff83c0', 'user_id': 6713, 'action': 'login', 'timestamp': '2025-09-07T00:19:50.369917Z'}
+2025-09-06 19:19:51 | INFO | Generated JSON message: {'event_id': '452bea70-d7b1-47e4-9966-a14d5ad0be44', 'user_id': 3606, 'action': 'click', 'timestamp': '2025-09-07T00:19:51.372685Z'}
+2025-09-06 19:19:51 | INFO | Sent message to topic 'buzzline': {'event_id': '452bea70-d7b1-47e4-9966-a14d5ad0be44', 'user_id': 3606, 'action': 'click', 'timestamp': '2025-09-07T00:19:51.372685Z'}
+2025-09-06 19:19:52 | INFO | Generated JSON message: {'event_id': '784d8b13-ba3a-4c8f-900e-2ff6d4a0fad6', 'user_id': 5824, 'action': 'logout', 'timestamp': '2025-09-07T00:19:52.376295Z'}
+2025-09-06 19:19:52 | INFO | Sent message to topic 'buzzline': {'event_id': '784d8b13-ba3a-4c8f-900e-2ff6d4a0fad6', 'user_id': 5824, 'action': 'logout', 'timestamp': '2025-09-07T00:19:52.376295Z'}
+2025-09-06 19:19:53 | INFO | Generated JSON message: {'event_id': '274c69ff-0bef-49ec-b03f-37e1d8697b2d', 'user_id': 4860, 'action': 'purchase', 'timestamp': '2025-09-07T00:19:53.379862Z'}
+2025-09-06 19:19:53 | INFO | Sent message to topic 'buzzline': {'event_id': '274c69ff-0bef-49ec-b03f-37e1d8697b2d', 'user_id': 4860, 'action': 'purchase', 'timestamp': '2025-09-07T00:19:53.379862Z'}
+2025-09-06 19:19:54 | INFO | Generated JSON message: {'event_id': '6d354804-cd0c-4290-a1ea-f40dd967bfab', 'user_id': 8619, 'action': 'scroll', 'timestamp': '2025-09-07T00:19:54.392145Z'}
+2025-09-06 19:19:54 | INFO | Sent message to topic 'buzzline': {'event_id': '6d354804-cd0c-4290-a1ea-f40dd967bfab', 'user_id': 8619, 'action': 'scroll', 'timestamp': '2025-09-07T00:19:54.392145Z'}
+2025-09-06 19:19:55 | INFO | Generated JSON message: {'event_id': '9d133aa1-3a83-49b1-ac8b-cec958b64f72', 'user_id': 6385, 'action': 'purchase', 'timestamp': '2025-09-07T00:19:55.395455Z'}
+2025-09-06 19:19:55 | INFO | Sent message to topic 'buzzline': {'event_id': '9d133aa1-3a83-49b1-ac8b-cec958b64f72', 'user_id': 6385, 'action': 'purchase', 'timestamp': '2025-09-07T00:19:55.395455Z'}
+2025-09-06 19:19:56 | INFO | Generated JSON message: {'event_id': 'e85d7765-2ce0-4213-854f-02bcf5ab7469', 'user_id': 8893, 'action': 'login', 'timestamp': '2025-09-07T00:19:56.400285Z'}
+2025-09-06 19:19:56 | INFO | Sent message to topic 'buzzline': {'event_id': 'e85d7765-2ce0-4213-854f-02bcf5ab7469', 'user_id': 8893, 'action': 'login', 'timestamp': '2025-09-07T00:19:56.400285Z'}
+2025-09-06 19:19:57 | INFO | Generated JSON message: {'event_id': 'd40b0d26-a1a1-4f73-8971-9706eaa1b14b', 'user_id': 3789, 'action': 'purchase', 'timestamp': '2025-09-07T00:19:57.403141Z'}
+2025-09-06 19:19:57 | INFO | Sent message to topic 'buzzline': {'event_id': 'd40b0d26-a1a1-4f73-8971-9706eaa1b14b', 'user_id': 3789, 'action': 'purchase', 'timestamp': '2025-09-07T00:19:57.403141Z'}
+2025-09-06 19:19:58 | INFO | Generated JSON message: {'event_id': '5bcc65b8-50ae-4f26-b148-b177c6b1063d', 'user_id': 6783, 'action': 'view', 'timestamp': '2025-09-07T00:19:58.408115Z'}
+2025-09-06 19:19:58 | INFO | Sent message to topic 'buzzline': {'event_id': '5bcc65b8-50ae-4f26-b148-b177c6b1063d', 'user_id': 6783, 'action': 'view', 'timestamp': '2025-09-07T00:19:58.408115Z'}
+2025-09-06 19:19:59 | INFO | Generated JSON message: {'event_id': '061ab745-185d-4966-9f26-6b1be2c3f056', 'user_id': 1994, 'action': 'click', 'timestamp': '2025-09-07T00:19:59.411659Z'}
+2025-09-06 19:19:59 | INFO | Sent message to topic 'buzzline': {'event_id': '061ab745-185d-4966-9f26-6b1be2c3f056', 'user_id': 1994, 'action': 'click', 'timestamp': '2025-09-07T00:19:59.411659Z'}
+2025-09-06 19:20:00 | INFO | Generated JSON message: {'event_id': '028f51c2-bceb-4f47-ba42-a2c54317cc13', 'user_id': 9297, 'action': 'purchase', 'timestamp': '2025-09-07T00:20:00.421053Z'}
+2025-09-06 19:20:00 | INFO | Sent message to topic 'buzzline': {'event_id': '028f51c2-bceb-4f47-ba42-a2c54317cc13', 'user_id': 9297, 'action': 'purchase', 'timestamp': '2025-09-07T00:20:00.421053Z'}
+2025-09-06 19:20:01 | INFO | Generated JSON message: {'event_id': '0943ddc0-5bed-41a5-9775-775d25af1ea3', 'user_id': 6418, 'action': 'click', 'timestamp': '2025-09-07T00:20:01.445719Z'}
+2025-09-06 19:20:01 | INFO | Sent message to topic 'buzzline': {'event_id': '0943ddc0-5bed-41a5-9775-775d25af1ea3', 'user_id': 6418, 'action': 'click', 'timestamp': '2025-09-07T00:20:01.445719Z'}
+2025-09-06 19:20:02 | INFO | Generated JSON message: {'event_id': '0a3cf74e-c4bb-4806-bfab-6347df792b71', 'user_id': 6494, 'action': 'scroll', 'timestamp': '2025-09-07T00:20:02.449515Z'}
+2025-09-06 19:20:02 | INFO | Sent message to topic 'buzzline': {'event_id': '0a3cf74e-c4bb-4806-bfab-6347df792b71', 'user_id': 6494, 'action': 'scroll', 'timestamp': '2025-09-07T00:20:02.449515Z'}
+2025-09-06 19:20:03 | INFO | Generated JSON message: {'event_id': '19d6db73-0539-41ba-9c8d-c3f54efbbdb8', 'user_id': 7958, 'action': 'click', 'timestamp': '2025-09-07T00:20:03.458522Z'}
+2025-09-06 19:20:03 | INFO | Sent message to topic 'buzzline': {'event_id': '19d6db73-0539-41ba-9c8d-c3f54efbbdb8', 'user_id': 7958, 'action': 'click', 'timestamp': '2025-09-07T00:20:03.458522Z'}
+2025-09-06 19:20:04 | INFO | Generated JSON message: {'event_id': 'd3c5a185-a02a-4dff-81fc-ca6e1dfd80f8', 'user_id': 4754, 'action': 'click', 'timestamp': '2025-09-07T00:20:04.462360Z'}
+2025-09-06 19:20:04 | INFO | Sent message to topic 'buzzline': {'event_id': 'd3c5a185-a02a-4dff-81fc-ca6e1dfd80f8', 'user_id': 4754, 'action': 'click', 'timestamp': '2025-09-07T00:20:04.462360Z'}
+2025-09-06 19:20:05 | INFO | Generated JSON message: {'event_id': '7d2dfb08-5ae9-42d5-a833-e88ea0d24297', 'user_id': 8894, 'action': 'logout', 'timestamp': '2025-09-07T00:20:05.465041Z'}
+2025-09-06 19:20:05 | INFO | Sent message to topic 'buzzline': {'event_id': '7d2dfb08-5ae9-42d5-a833-e88ea0d24297', 'user_id': 8894, 'action': 'logout', 'timestamp': '2025-09-07T00:20:05.465041Z'}
+2025-09-06 19:20:06 | INFO | Generated JSON message: {'event_id': '69e2877a-8531-4ed6-86b1-c30e54778aae', 'user_id': 3065, 'action': 'logout', 'timestamp': '2025-09-07T00:20:06.468557Z'}
+2025-09-06 19:20:06 | INFO | Sent message to topic 'buzzline': {'event_id': '69e2877a-8531-4ed6-86b1-c30e54778aae', 'user_id': 3065, 'action': 'logout', 'timestamp': '2025-09-07T00:20:06.468557Z'}
+2025-09-06 19:20:07 | INFO | Generated JSON message: {'event_id': '7e9b38af-43a1-4b92-9f48-db565abee055', 'user_id': 5521, 'action': 'logout', 'timestamp': '2025-09-07T00:20:07.471384Z'}
+2025-09-06 19:20:07 | INFO | Sent message to topic 'buzzline': {'event_id': '7e9b38af-43a1-4b92-9f48-db565abee055', 'user_id': 5521, 'action': 'logout', 'timestamp': '2025-09-07T00:20:07.471384Z'}
+2025-09-06 19:20:08 | INFO | Generated JSON message: {'event_id': 'cc7f5072-f6f3-487a-8c29-338ba25d4c29', 'user_id': 9580, 'action': 'login', 'timestamp': '2025-09-07T00:20:08.473936Z'}
+2025-09-06 19:20:08 | INFO | Sent message to topic 'buzzline': {'event_id': 'cc7f5072-f6f3-487a-8c29-338ba25d4c29', 'user_id': 9580, 'action': 'login', 'timestamp': '2025-09-07T00:20:08.473936Z'}
+2025-09-06 19:20:09 | INFO | Generated JSON message: {'event_id': 'aa36c806-4e26-4bf4-afc7-1b3c5bcfe0d0', 'user_id': 9511, 'action': 'login', 'timestamp': '2025-09-07T00:20:09.476888Z'}
+2025-09-06 19:20:09 | INFO | Sent message to topic 'buzzline': {'event_id': 'aa36c806-4e26-4bf4-afc7-1b3c5bcfe0d0', 'user_id': 9511, 'action': 'login', 'timestamp': '2025-09-07T00:20:09.476888Z'}
+2025-09-06 19:20:10 | INFO | Generated JSON message: {'event_id': '09055904-603d-456d-9aad-f68b3daa0aaf', 'user_id': 7349, 'action': 'login', 'timestamp': '2025-09-07T00:20:10.487420Z'}
+2025-09-06 19:20:10 | INFO | Sent message to topic 'buzzline': {'event_id': '09055904-603d-456d-9aad-f68b3daa0aaf', 'user_id': 7349, 'action': 'login', 'timestamp': '2025-09-07T00:20:10.487420Z'}
+2025-09-06 19:20:11 | INFO | Generated JSON message: {'event_id': '804e9ff9-bb48-4a61-8317-7961bdddabef', 'user_id': 9188, 'action': 'logout', 'timestamp': '2025-09-07T00:20:11.491361Z'}
+2025-09-06 19:20:11 | INFO | Sent message to topic 'buzzline': {'event_id': '804e9ff9-bb48-4a61-8317-7961bdddabef', 'user_id': 9188, 'action': 'logout', 'timestamp': '2025-09-07T00:20:11.491361Z'}
+2025-09-06 19:20:12 | INFO | Generated JSON message: {'event_id': '7dd35312-6b62-449b-8d26-544ff0ad8d40', 'user_id': 3965, 'action': 'purchase', 'timestamp': '2025-09-07T00:20:12.494725Z'}
+2025-09-06 19:20:12 | INFO | Sent message to topic 'buzzline': {'event_id': '7dd35312-6b62-449b-8d26-544ff0ad8d40', 'user_id': 3965, 'action': 'purchase', 'timestamp': '2025-09-07T00:20:12.494725Z'}
+2025-09-06 19:20:12 | WARNING | Producer interrupted by user.
+2025-09-06 19:20:12 | INFO | Kafka producer closed.
+2025-09-06 19:20:12 | INFO | END producer.
