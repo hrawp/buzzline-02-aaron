@@ -16,6 +16,9 @@ The main issue I encountered was properly configuring the encoding between the P
 
 The basic commands provided still apply to my updated code.
 
+-----------------------------------------------------------------------------------------------------
+### Project Architecture
+
 Streaming data is often too big for any one machine. Apache Kafka is a popular streaming platform that uses publish-subscribe patterns:
 
 - **Producers** publish streaming data to topics
