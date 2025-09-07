@@ -3,15 +3,12 @@
 This project involved making meaningful changes to a given Producer and Consumer within a Kafka architecture.
 
 ### The main change I made was modifying the Producer to send JSON messages with the following fields:
-
+```
 "event_id"
-
 "user_id"
-
 "action"
-
 "timestamp"
-
+```
 ### I updated the Consumer to parse and process JSON messages.
 ### I also added an alert whenever the "PURCHASE" action is detected by the Consumer.
 
