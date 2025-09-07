@@ -1,14 +1,14 @@
 # buzzline-02-aaron
 
-# The main change I made was to have the Producer send JSON elements with the following fields:
-               ``` JSON
+### The main change I made was to have the Producer send JSON elements with the following fields:
+               
                "event_id": 
                "user_id": 
                "action": 
                "timestamp":
-               ``` 
-# I changed the Consumer to process JSON.
-# I also set an alert when the action "PURCHASE" was seen by the Consumer.
+             
+### I changed the Consumer to process JSON.
+### I also set an alert when the action "PURCHASE" was seen by the Consumer.
 
 The main issue I had was setting the encoding properly. 
 
