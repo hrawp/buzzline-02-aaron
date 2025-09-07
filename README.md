@@ -1,18 +1,23 @@
 # buzzline-02-aaron
 
-### The main change I made was to have the Producer send JSON elements with the following fields:
-               
-               "event_id": 
-               "user_id": 
-               "action": 
-               "timestamp":
-             
-### I changed the Consumer to process JSON.
-### I also set an alert when the action "PURCHASE" was seen by the Consumer.
+This project involved making meaningful changes to a given Producer and Consumer within a Kafka architecture.
 
-The main issue I had was setting the encoding properly. 
+### The main change I made was modifying the Producer to send JSON messages with the following fields:
 
-The basic commands below still apply to my updated code.
+"event_id"
+
+"user_id"
+
+"action"
+
+"timestamp"
+
+### I updated the Consumer to parse and process JSON messages.
+### I also added an alert whenever the "PURCHASE" action is detected by the Consumer.
+
+The main issue I encountered was properly configuring the encoding between the Producer and Consumer.
+
+The basic commands provided still apply to my updated code.
 
 Streaming data is often too big for any one machine. Apache Kafka is a popular streaming platform that uses publish-subscribe patterns:
 
